@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jam_EditField</string>
+    <string name="password">密码</string>
+    <string name="phone_number">手机号码</string>
+    <string name="login_with_phone">登录</string>
+    <string name="forgot_password">忘记密码?</string>
+    <string name="login_tip">登录即表示同意《隐私协议》和《服务条款》</string>
+</resources>
